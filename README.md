@@ -11,4 +11,6 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
-"# solidity-hardhat-demo" 
+
+"# solidity-hardhat-demo"
+This repo contains the code using which I learned hardhat
